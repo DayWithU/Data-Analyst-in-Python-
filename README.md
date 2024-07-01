@@ -1,5 +1,5 @@
 # Portfolio Projects
-## Following are my projects in SQL, Python, PowerBI & Excel: <br />
+## Following are my projects in SQL, PowerBI & Excel: <br />
 #### *You can also take a look at my Linkedin : [UdayBhanuSingh](https://www.linkedin.com/in/uday-bhanu-singh/)* <br />
 
 
@@ -17,17 +17,11 @@
   - Nashville Housing Dataset: Data Cleaning <br />
 *Review the SQL Script:* **[HERE](https://github.com/DayWithU/Data-Analyst-in-Python-/blob/main/SQL%20-%20Data%20Cleaning.sql)**<br />
 
-
-- [x] **Python** - 
-  - Movies Industry Dataset: Exploratory Data Analysis Project <br />
-*Read the complete Project Analysis in Markdown:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/Python_MoviesIndustry_EDA/blob/main/README.md)**<br />
-
-
 - [x] **PowerBI** - 
 
 *To view these Tableau Dashboards in Tableau Public, click on the hypertext link.*
 
-- #MakeoverMonday 2020 Week 32 | Benefits of Working from Home: https://public.tableau.com/views/MakeoverMonday2020Week32BenefitsofWorkingfromHome/WORKFROMHOME?:language=en-GB&:display_count=n&:origin=viz_share_link
+- #MakeoverMonday 2020 Week 32 | Benefits of Working from Home:
 
 ![MakeoverMonday](visuals/WorkFromHome.png)  
 
@@ -87,13 +81,12 @@
 
 *Kindly download these Excel files from this repository and view them in Microsoft Excel.*
 
-
 - Sales Superstore Sample: Sales Performance Dashboard <br />
 
 ![Dashboard](visuals/excel/Dashboards.png)
 
 
-- NetTRON Network Infrastructure Data : LOOKUP, INDEX, MATCH, SUMIFS <br />
+- NetTRON Network Infrastructure Data: LOOKUP, INDEX, MATCH, SUMIFS <br />
 
 ![Dashboard](visuals/excel/INDEX.png)
 
