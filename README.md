@@ -4,10 +4,18 @@
 
 
 
-- [x] **SQL & Tableau** - 
+- [x] **SQL & PowerBI** -
+  - SuperStore Sales Analysis and Pridication ![SuperStoreSalesPridication]()() <br/>
+
+  - Tech Store Analysis![iTechStore Analysis](https://github.com/DayWithU/iTech-Store-Sales_Analysis)<br />
+  
   - Instagram Clone Data Analysis Project<br />
 *Review the Data Insertion SQL Script:* **[HERE](https://github.com/DayWithU/Data-Analyst-in-Python-/blob/main/Instagram%20Clone%20SQL%20-%20Database%20%26%20Inserting%20Data.sql)**<br />
 *Review the Data Exploration SQL Script:* **[HERE](https://github.com/DayWithU/Data-Analyst-in-Python-/blob/main/Instagram%20Clone%20SQL%20-%20Exploratory%20Data%20Analysis.sql)**<br />
+
+
+ 
+
 
 ![Instagram Clone Dashboard](visuals/InstagramCloneDashboard.png)
 
