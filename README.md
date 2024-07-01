@@ -1,76 +1,93 @@
-# Data-Analyst-In-Python
+# Portfolio Projects
+## Following are my projects in SQL, Python, PowerBI & Excel: <br />
+#### *You can also take a look at my Linkedin : [UDayBHanuSiNgh](https://www.linkedin.com/in/uday-bhanu-singh/)* <br />
 
-## Inroduction
-I have completed Data Analytics full track from [Scaler]() with 10 real world projects.This repository contains all projects,datsets used in course and 
-notes.Step_1 to step_6 is order of course track completeion.
+- [x] **SQL** - 
+  - COVID-19 Dataset: Data Exploration  <br />
+*Review the SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/SQL%20-%20Data%20Exploration.sql)**<br />
+  - Nashville Housing Dataset: Data Cleaning <br />
+*Review the SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/SQL%20-%20Data%20Cleaning.sql)**<br />
 
-## Tools Used
-I worked on Jupyter Notebooks and Notepad app for course notes on Windows laptop.</br>
-You can install Jupyter Notebook from [here]()</br>
-Notepad app already avialable in Windows ,or you can use any app for making notes.
-
-## Projects
-Repo have separate folder for projects where i have saved projects according to course and step track.</br>
-
-### Projects completed in Step_1
-[Project_1:]()</br>
-[Project_2:]()</br>
-[Project_3:]()</br>
-
-Total Projects:3
-
-### Projects completed in step_2
-[Project_4:]()</br>
-[Project_5:]()</br>
-[Project_6:]()</br>
-[Project_7:]()</br>
-[Project_8:]()</br>
-[Project_9:]()</br>
-
-Total Projects: 6
-
-### Projects in Step_3
-Step_3 have no projects.
-
-## Projects completed in Step_4
-[Project_10:]()</br>
-[Project_11:]()</br>
-[Project_12:]()</br>
-[Project_13:]()</br>
-[Project_14:]()</br>
-
-Total Projects: 5
-
-### Projects completed in Step_5
-[Project_15:]()</br>
-[Project_16:]()</br>
-[Project_17:]()<br>
-[Project_18:]()</br>
-[Project_19:]()</br>
-Total Projects: 5
-### Projects completed in Step_6
-[Project_20:]()</br>
-
-Total projects: 1
-
-## Datasets
-This folder contains datasets used in courses for data analysis practice.
-[Datasets used in step_1]()</br>
-[Datasets used in step_2]()</br>
-[Datasets in step_3]()</br>
-Step_3 have no data sets to download.</br>
-[Datasets used in step_4]()</br>
-[Datasets used in step_5]()</br>
-[Datasets used in step_6]()</br>
-
-## Notes 
-Notes of all courses are avialbale either in text or jupyter notebook format.</br>
-Takeaway files are in pdf format which are very short and concise notes.
+- [x] **Python** - 
+  - Movies Industry Dataset: Exploratory Data Analysis Project <br />
+*Read the complete Project Analysis in Markdown:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/Python_MoviesIndustry_EDA/blob/main/README.md)**<br />
 
 
-## Recommendation
-This course is more than enough for absolute beginners and good for intermediate Data Analytics practitioner.
 
-## Happy to Help:
-If have any issue in understanding notes or struggling to grasp any topic , i am ready to offer help.
- 
+- [x] **PowerBI** - 
+- Municipality Data Analysis Dashboard:
+![Municipality Data Analysis](visuals/MunicipalityDataAnalysisDashboard.png)  
+
+
+- #MakeoverMonday 2020 Week 32 | Benefits of Working from Home:
+![MakeoverMonday](visuals/WorkFromHome.png)  
+
+- GROVER Junior Data Analyst Case Study Dashboard: 
+![GROVER Junior Data Analyst](visuals/GroverDataAnalystDashboard.png)  
+
+- Retail Pricing Analytics Dashboard: 
+![Retail Price Analytics](visuals/RetailPricingAnalytics.png)
+
+- E-commerce Sales Dashboard:
+![E-commerce Sales](visuals/E-commerceRetail.png)
+
+- Sales SuperStore Deep Data Analysis (5 Dashboards): 
+      1 KPI Dashboard
+
+![KPI Dashboard](visuals/KPIDashboard.png)
+
+      2 Top-Down Dashboard
+      
+![Top Down Dashboard](visuals/TopDownDashboard.png)
+
+      3 Q&A Dashboard
+      
+![Q&A Dashboard](visuals/Q&ADashboard.png)
+
+      4 Bottom-Up Dashboard
+      
+![Bottom Up Dashboard](visuals/BottomUpDashboard.png)
+
+      5 Geo Chart
+      
+![Geo Chart](visuals/GeoChart.png)
+
+
+- World Bank CO2 Emissions Dashboard:
+![World Bank CO2 Emission](visuals/WorldBankCO2Emission.png)
+
+- London Bus Safety Dashboard: 
+![London Bus Safety](visuals/LondonBusSafety.png)
+
+
+- [x] **Excel** - 
+
+*Kindly download these Excel files from this repository and view them in Microsoft Excel.*
+
+
+- Sales Superstore Sample: Sales Performance Dashboard <br />
+
+![Dashboard](visuals/excel/Dashboards.png)
+
+
+- NetTRON Network Infrastructure Data : LOOKUP, INDEX, MATCH, SUMIFS <br />
+
+![Dashboard](visuals/excel/INDEX.png)
+
+![Dashboard](visuals/excel/LOOKUP.png)
+
+
+- Shipping Data: Pivot Tables, Pivot Chart, Slicers <br />
+
+![Dashboard](visuals/excel/PivotReports.png)
+
+
+- Project Costing Model Data: Scenario Manager, Solver (Data Modeling)
+
+![Dashboard](visuals/excel/DataModeling.png)
+
+![Dashboard](visuals/excel/Solver.png)
+
+![Dashboard](visuals/excel/ScenarioManager.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
