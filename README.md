@@ -5,7 +5,7 @@
 
 
 - [x] **SQL & PowerBI** -
-  - SuperStore Sales Analysis and Pridication ![SuperStoreSalesPridication]()() <br/>
+  - SuperStore Sales Analysis and Pridication ![SuperStoreSalesPridication]() <br/>
 
   - Tech Store Analysis![iTechStore Analysis](https://github.com/DayWithU/iTech-Store-Sales_Analysis)<br />
   
