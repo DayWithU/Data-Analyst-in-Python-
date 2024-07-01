@@ -26,9 +26,6 @@
 *Review the SQL Script:* **[HERE](https://github.com/DayWithU/Data-Analyst-in-Python-/blob/main/SQL%20-%20Data%20Cleaning.sql)**<br />
 
 - [x] **PowerBI** - 
-
-*To view these Tableau Dashboards in Tableau Public, click on the hypertext link.*
-
 - #MakeoverMonday 2020 Week 32 | Benefits of Working from Home:
 
 ![MakeoverMonday](visuals/WorkFromHome.png)  
